@@ -1,5 +1,5 @@
-# DALI 2024 Spring Application - Code Sample 1
-###  John Guerrerio
+# Code Sample 1
+###  DALI 2024S - Machine Learning Track
 
 This repository contains my code sample for the 2024S DALI Application.  After my 24W application, I wanted to learn more about computer vision as this was an area I had little prior expirience in.  This repository contains three projects I completed in the process of learning key computer vision concepts.
 
