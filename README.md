@@ -10,4 +10,3 @@ This repository contains a collection of projects I worked on to learn more abou
 ## Notes
 - All files were written in Python 3.10
 - All files were written in Google Colab with the default Colab library versions.  Colab is a good environment to run these files in, as all files will run significantly faster on a GPU.
-- These files were developed in Google Colab outside of this combined GitHub repo.  As such, the git commit hitory does not show a complete picture of the development work behind these projects.
