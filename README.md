@@ -1,7 +1,6 @@
-# Code Sample 1
-###  DALI 2024S - Machine Learning Track
+# Computer Vision Portfolio
 
-This repository contains my code sample for the 2024S DALI Application.  After my 24W application, I wanted to learn more about computer vision as this was an area I had little prior expirience in.  This repository contains three projects I completed in the process of learning key computer vision concepts.
+This repository contains a collection of projects I worked on to learn more about computer vision.
 
 ## Projects
 - MNIST Classifier: My first computer vision project.  A simple CNN-based classifier for the MNIST fashion dataset.  My goal for this project was to become familiar with CNNs and key computer vision concepts.
