@@ -2,6 +2,8 @@
 
 This repository contains a collection of projects I worked on to learn more about computer vision.
 
+## Deployment Link: https://huggingface.co/spaces/JohnG112358/StyleTransfer
+
 ## Projects
 - MNIST Classifier: My first computer vision project.  A simple CNN-based classifier for the MNIST fashion dataset.  My goal for this project was to become familiar with CNNs and key computer vision concepts.
 - MNSIT GAN: A Deep Generative Adversarial Network for the MNIST fashion dataset.  My goal for this project was to explore more advanced computer vision concepts and learn more about generative algorithms.
